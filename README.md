@@ -2,13 +2,12 @@
 
 ## Welcome to APS - Algorithmic Problem Solving
 
-Hey there! 👋 I'm a student maintaining this repository for the Algorithmic Problem Solving (APS) course at KLE Technological University. This is the go-to place for all the code, resources, and creative problem-solving vibes. 🚀
+Hey there! 👋 I'm a student maintaining this repository for the Algorithmic Problem Solving (APS) course at KLE Technological University. This is the go-to place for all the code, resources, and creative problem-solving vibes i will be learning in the course. 🚀
 
 ### About the Course
 
-APS is a six-credit elective offered by the School of Computer Science and Engineering (SoCSE), currently in its seventh edition. Over the past six years, the course has received overwhelmingly positive feedback, and chatting with seniors will give you even more insights into what to expect.
+APS is a six-credit elective offered by the School of Computer Science and Engineering (SoCSE). This course not only sets the stage for core programming placements but also instills the principles and foundations of programming design techniques.
 
-KLE Technological University stands out for its visionary approach to education, especially in preparing students for cutting-edge profiles. While we might not be the pioneers, we believe in the mantra "better late than never." This course not only sets the stage for core programming placements but also instills the principles and foundations of programming design techniques.
 
 ### Why APS?
 1. **Tackle Complex Problems**: As a competent engineer, the ability to understand and solve large, complex, and poorly defined problems is crucial. The computing world throws challenges that go beyond traditional algorithmic thinking. APS equips you to tackle these challenges head-on.
